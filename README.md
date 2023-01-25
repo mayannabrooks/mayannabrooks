@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently working on studying on various platforms to learn the necessary skills to become a programmer
+- 🔭 I’m currently studying on various platforms to learn the necessary skills to become a programmer
 - 🌱 I’m currently learning Javascript! I’ve completed courses on HTML, CSS, and Javascript on CodeCademy
 - 👯 I’m interested in collaberateing with fellow programmers to create projects
 - 🤔 I’d love to receive guidance from certified programmers so I can improve my skills
